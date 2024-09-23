@@ -5,7 +5,7 @@ function Home() {
     <>
       <div>Home</div>
       <h1 className="text-3xl font-bold bg-transparent underline">
-        Hello Home!
+        Tasks
       </h1>
     </>
   );
